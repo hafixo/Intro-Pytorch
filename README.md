@@ -13,18 +13,18 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 ## Table of Contents
 
-* [PyTorch Basics](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/00%20-%20PyTorch%20Basics/main.py)
-* [Linear Regression](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01%20-%20Linear%20Regression/main.py#L24-L31)
-* [Logistic Regression](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/02%20-%20Logistic%20Regression/main.py#L35-L42)
-* [Feedforward Neural Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03%20-%20Feedforward%20Neural%20Network/main.py#L36-L47)
-* [Convolutional Neural Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/04%20-%20Convolutional%20Neural%20Network/main.py#L33-L53)
-* [Deep Residual Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/05%20-%20Deep%20Residual%20Network/main.py#L67-L103)
-* [Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/06%20-%20Recurrent%20Neural%20Network/main.py#L38-L56)
-* [Bidirectional Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/07%20-%20Bidirectional%20Recurrent%20Neural%20Network/main.py#L38-L57)
-* [Language Model (RNNLM)](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/08%20-%20Language%20Model/main.py#L28-L53)
-* [Image Captioning (CNN-RNN)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/09%20-%20Image%20Captioning)
-* [Generative Adversarial Network](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/10%20-%20Generative%20Adversarial%20Network/main.py#L32-L50)
-* [Deep Q-Network and Q-learning (WIP)](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/11%20-%20Deep%20Q%20Network/dqn13.py)
+* [PyTorch Basics](https://github.com/davidyapdy/Intro-Pytorch/tree/master/tutorials/00%20-%20PyTorch%20Basics/main.py)
+* [Linear Regression](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/01%20-%20Linear%20Regression/main.py#L24-L31)
+* [Logistic Regression](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/02%20-%20Logistic%20Regression/main.py#L35-L42)
+* [Feedforward Neural Network](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/03%20-%20Feedforward%20Neural%20Network/main.py#L36-L47)
+* [Convolutional Neural Network](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/04%20-%20Convolutional%20Neural%20Network/main.py#L33-L53)
+* [Deep Residual Network](https://github.com/yunjey/davidyapdy/Intro-Pytorch/blob/master/tutorials/05%20-%20Deep%20Residual%20Network/main.py#L67-L103)
+* [Recurrent Neural Network](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/06%20-%20Recurrent%20Neural%20Network/main.py#L38-L56)
+* [Bidirectional Recurrent Neural Network](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/07%20-%20Bidirectional%20Recurrent%20Neural%20Network/main.py#L38-L57)
+* [Language Model (RNNLM)](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/08%20-%20Language%20Model/main.py#L28-L53)
+* [Image Captioning (CNN-RNN)](https://github.com/davidyapdy/Intro-Pytorch/tree/master/tutorials/09%20-%20Image%20Captioning)
+* [Generative Adversarial Network](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/10%20-%20Generative%20Adversarial%20Network/main.py#L32-L50)
+* [Deep Q-Network and Q-learning (WIP)](https://github.com/davidyapdy/Intro-Pytorch/blob/master/tutorials/11%20-%20Deep%20Q%20Network/dqn13.py)
 
 
 <br/>
